@@ -1,5 +1,5 @@
 # QuantumNAS_linear
-## Use QuantumNAS framework to run PennyLane linear separable 16d datase.
+## Use QuantumNAS framework to run PennyLane linear separable 16d dataset.
 
 Run **1_train_supercircuit.sh**: 1st step, train the supercircuit.
 
